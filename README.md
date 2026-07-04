@@ -13,7 +13,7 @@ own normal is what's worth a phone call.
 
 ## How it works
 
-1. Someone records a short daily voice memo ("how was your day" — no script,
+1. Someone records a short daily voice memo ("how was your day" - no script,
    no app friction).
 2. `faster-whisper` transcribes it; the transcript gives word count and a
    filler-word rate ("um", "uh", "like", ...).
