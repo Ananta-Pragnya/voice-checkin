@@ -30,7 +30,7 @@ own normal is what's worth a phone call.
    have an established baseline (5+ prior days).
 5. If the composite drift or any single feature crosses a threshold, the day
    gets flagged. The dashboard message is always a nudge - *"worth a call this
-   week"* — never a clinical claim.
+   week"* -- never a clinical claim.
 
 ## Install
 
